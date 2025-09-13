@@ -7,7 +7,7 @@ An interactive web app built with threejs, mediapipe computer vision, rosebud AI
 - Hand #1 controls the arpeggios (raise hand to raise pitch, pinch to change volume)
 - Hand #2 controls the drums (raise different fingers to change the pattern)
 
-[Video](https://youtu.be/JepIs-DTBgk?si=4Y-FrQDF6KNy662C) | [Live Demo](https://collidingscopes.github.io/arpeggiator/) | [More Code & Tutorials](https://funwithcomputervision.com/)
+[Video](https://youtu.be/JepIs-DTBgk?si=4Y-FrQDF6KNy662C) | [Live Demo](https://collidingscopes.github.io/arpeggiator/) |
 
 <img src="assets/demo.png">
 
@@ -50,19 +50,6 @@ MIT License
 - Rosebud AI - https://rosebud.ai/
 - Tone.js - https://tonejs.github.io/
 
-## Related Projects
-
-I've released several computer vision projects (with code + tutorials) here:
-[Fun With Computer Vision](https://www.funwithcomputervision.com/)
-
-You can purchase lifetime access and receive the full project files and tutorials. I'm adding more content regularly 🪬
-
-You might also like some of my other open source projects:
-
-- [3D Model Playground](https://collidingScopes.github.io/3d-model-playground) - control 3D models with voice and hand gestures
-- [Threejs hand tracking tutorial](https://collidingScopes.github.io/threejs-handtracking-101) - Basic hand tracking setup with threejs and MediaPipe computer vision
-- [Particular Drift](https://collidingScopes.github.io/particular-drift) - Turn photos into flowing particle animations
-- [Video-to-ASCII](https://collidingScopes.github.io/ascii) - Convert videos into ASCII pixel art
 
 ## Contact
 
@@ -70,11 +57,3 @@ You might also like some of my other open source projects:
 - Twitter/X: [@measure_plan](https://x.com/measure_plan)
 - Email: [stereodriftvisuals@gmail.com](mailto:stereodriftvisuals@gmail.com)
 - GitHub: [collidingScopes](https://github.com/collidingScopes)
-
-## Donations
-
-If you found this tool useful, feel free to buy me a coffee. 
-
-My name is Alan, and I enjoy building open source software for computer vision, games, and more. This would be much appreciated during late-night coding sessions!
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/stereoDrift)
