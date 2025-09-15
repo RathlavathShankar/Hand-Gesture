@@ -8,6 +8,7 @@ An interactive web app built with threejs, mediapipe computer vision, rosebud AI
 - Hand #2 controls the drums (raise different fingers to change the pattern)
 
 [Video](https://youtu.be/JepIs-DTBgk?si=4Y-FrQDF6KNy662C) | [Live Demo](https://collidingscopes.github.io/arpeggiator/) |
+Note:The credits for live Demo - Colliding Scopes
 
 <img src="assets/demo.png">
 
