@@ -50,10 +50,3 @@ MIT License
 - Rosebud AI - https://rosebud.ai/
 - Tone.js - https://tonejs.github.io/
 
-
-## Contact
-
-- Instagram: [@stereo.drift](https://www.instagram.com/stereo.drift/)
-- Twitter/X: [@measure_plan](https://x.com/measure_plan)
-- Email: [stereodriftvisuals@gmail.com](mailto:stereodriftvisuals@gmail.com)
-- GitHub: [collidingScopes](https://github.com/collidingScopes)
